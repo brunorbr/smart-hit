@@ -1,10 +1,10 @@
 import React from "react";
-import Timer from "./utils/Timer";
+import Stopwatch from "./components/Stopwatch";
 
 function App() {
   return (
     <div className="App">
-      <Timer />
+      <Stopwatch />
     </div>
   );
 }
